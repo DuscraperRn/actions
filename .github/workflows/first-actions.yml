@@ -1,5 +1,5 @@
 name: my first github actions
-on: [push,pull]
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
